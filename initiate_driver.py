@@ -1,5 +1,3 @@
-
-
 try:
     import json
     from selenium.webdriver import Chrome
